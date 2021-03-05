@@ -28,11 +28,11 @@
 int balance = 1;  
 int transfer = 500_000_000;
 
-Кейс 1:  
+Кейс 2:  
 int balance = 2_000_000_000;  
 int transfer = 1;
 
-Кейс 1:  
+Кейс 3:  
 int balance = 2_000_000_000;  
 int transfer = 500_000_000;
 
